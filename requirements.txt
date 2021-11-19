@@ -3,3 +3,4 @@ folium
 flask
 pandas
 statsmodels
+gunicorn
