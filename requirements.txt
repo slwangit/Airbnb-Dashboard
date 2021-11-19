@@ -1,6 +1,5 @@
 plotly
 folium
 flask
-json
 pandas
 statsmodels
